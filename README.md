@@ -13,3 +13,7 @@ http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661978&idx=1&sn=2f5329f
 3、RecyclerView适配
 
 https://github.com/HpWens/BaseRecyclerViewAdapterHelper  
+
+4、Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系
+
+http://blog.csdn.net/stonecao/article/details/6417364
