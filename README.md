@@ -16,4 +16,4 @@ https://github.com/HpWens/BaseRecyclerViewAdapterHelper
 
 4、Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系
 
-http://blog.csdn.net/stonecao/article/details/6417364
+http://blog.csdn.net/lmj623565791/article/details/38377229/
