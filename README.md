@@ -19,3 +19,7 @@ https://github.com/HpWens/BaseRecyclerViewAdapterHelper
 http://blog.csdn.net/lmj623565791/article/details/38377229/
 
 http://blog.csdn.net/stonecao/article/details/6417364
+
+5、基础总结篇之三：Activity的task相关
+
+http://blog.csdn.net/liuhe688/article/details/6761337
