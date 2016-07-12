@@ -23,3 +23,7 @@ http://blog.csdn.net/stonecao/article/details/6417364
 5、基础总结篇之三：Activity的task相关
 
 http://blog.csdn.net/liuhe688/article/details/6761337
+
+6、Android ListView工作原理完全解析，带你从源码的角度彻底理解
+
+http://blog.csdn.net/guolin_blog/article/details/44996879
