@@ -27,3 +27,8 @@ http://blog.csdn.net/liuhe688/article/details/6761337
 6、Android ListView工作原理完全解析，带你从源码的角度彻底理解
 
 http://blog.csdn.net/guolin_blog/article/details/44996879
+
+7、 Android 快速开发系列 打造万能的ListView GridView 适配器
+
+http://blog.csdn.net/lmj623565791/article/details/38902805/
+
