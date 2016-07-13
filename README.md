@@ -32,3 +32,11 @@ http://blog.csdn.net/guolin_blog/article/details/44996879
 
 http://blog.csdn.net/lmj623565791/article/details/38902805/
 
+8、 自定义View系列教程08--滑动冲突的产生及其处理
+
+http://blog.csdn.net/lfdfhl/article/details/51656492
+
+9、 Android省市区三级联动滚轮选择
+
+https://github.com/saiwu-bigkoo/Android-PickerView
+
