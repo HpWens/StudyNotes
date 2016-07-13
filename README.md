@@ -40,3 +40,6 @@ http://blog.csdn.net/lfdfhl/article/details/51656492
 
 https://github.com/saiwu-bigkoo/Android-PickerView
 
+10、我打赌你一定没搞明白的Activity启动模式
+
+http://www.jianshu.com/p/2a9fcf3c11e4
