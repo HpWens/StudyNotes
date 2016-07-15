@@ -43,3 +43,9 @@ https://github.com/saiwu-bigkoo/Android-PickerView
 10、我打赌你一定没搞明白的Activity启动模式
 
 http://www.jianshu.com/p/2a9fcf3c11e4
+
+11、recyclerView学习笔记
+
+http://www.jb51.net/article/80672.htm  使用RecyclerView添加Header和Footer的方法
+
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0722/3214.html   RecyclerView:实现带header的grid   setSpanSizeLookup 代表的含义
