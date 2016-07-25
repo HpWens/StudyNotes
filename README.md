@@ -49,3 +49,9 @@ http://www.jianshu.com/p/2a9fcf3c11e4
 http://www.jb51.net/article/80672.htm  使用RecyclerView添加Header和Footer的方法
 
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0722/3214.html   RecyclerView:实现带header的grid   setSpanSizeLookup 代表的含义
+
+
+12、Android 设计模式 之 单例模式
+
+http://blog.csdn.net/liguangzhenghi/article/details/8076361
+
